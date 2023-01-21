@@ -1,0 +1,7 @@
+{
+  "name": "compononets",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
